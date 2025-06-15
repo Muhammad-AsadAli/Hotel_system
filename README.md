@@ -16,7 +16,7 @@ A simple web-based Hotel Management System built with Flask and PostgreSQL. This
 
 ## Tech Stack
 Layer	      Technology
-Backend	    Python, Flask
-Database	  PostgreSQL
-Frontend	  HTML (Jinja Templates)
-API Format	JSON (AJAX Support)
+Backend	    | Python, Flask
+Database	  | PostgreSQL
+Frontend	  | HTML (Jinja Templates)
+API Format	| JSON (AJAX Support)
